@@ -1,0 +1,10 @@
+* {
+    font-family: "Helvetica", sans-serif;
+    /* background-color: #EEEAE9; */
+}
+
+.input, .ot, .output {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+} 
